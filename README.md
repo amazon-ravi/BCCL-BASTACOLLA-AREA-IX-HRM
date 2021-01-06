@@ -1,7 +1,7 @@
 BCCL BASTACOLLA AREA - IX HRM-payroll Human resource management system (HRM)
 I am available for PHP,Laravel,Codeigniter work, Android application, Ios Application, python, SQL and Data Mining. check out my ( https://about.me/ravikumarravi ) profile:
 
-My Projects: https://github.com/amazon-ravi My Social Account :
+My Projects: https://github.com/amazon-ravi 
 
 Summery
 This application based on new Latest CodeIgniter framework. **Human Resource Management system(HRM)**For Bharat Coking Coal Limited - (Area - IX) it has become one of the most vital tools for any corporate environment. It’s very convincement for any kind of businesses and helps to keep the HR department clean and clear. Modern HRM software is not just a fancy it’s now become an essential tool for maintaining every corporate culture. Any company can use it for their regular tasks, employee workforce management and account management.
